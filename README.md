@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning more about **Web Development**
 
-- 👨‍💻 All of my projects are available at [todo](Comming Soon)
+- 👨‍💻 All of my projects are available at [Comming Soon](todo)
 
 - 📫 Reach me at **afonsovelosof@gmail.com**
 
