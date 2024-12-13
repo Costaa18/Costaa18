@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Costa <br /> I'm a Backend Developer, from Portugal</h2>
+<h2 align="left">Hi 👋! I'm Costa <br /> I'm a Backend Developer, from Portugal</h2>
 
 - 🌱 I’m currently learning more about **Web Development**
 
 - 👨‍💻 All of my projects are available at [todo](todo)
 
-- 📫 How to reach me **afonsovelosof@gmail.com**
+- 📫 Reach me at **afonsovelosof@gmail.com**
 
 - 📄 Know about my experiences [todo](todo)
 
@@ -50,3 +50,10 @@
   <a href="https://discord.gg/costtazzz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
+  <a href="mailto:afonsovelosof@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/afonso-veloso-06b6b5211/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
