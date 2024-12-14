@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning more about **Web Development**
 
-- 👨‍💻 All of my projects are available at [Comming Soon](todo)
+- 👨‍💻 Get to Know mt better at my [Website](https://portfolio-wheat-zeta-73.vercel.app/)
 
 - 📫 Reach me at **afonsovelosof@gmail.com**
 
