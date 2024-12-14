@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning more about **Web Development**
 
-- 👨‍💻 Get to Know mt better at my [Website](https://afonsoveloso.com/)
+- 👨‍💻 Get to Know me better at my [Website](https://afonsoveloso.com/)
 
 - 📫 Reach me at **me@afonsoveloso.com**
 
