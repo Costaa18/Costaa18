@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning more about **Web Development**
 
-- 👨‍💻 Get to Know mt better at my [Website](https://portfolio-wheat-zeta-73.vercel.app/)
+- 👨‍💻 Get to Know mt better at my [Website](https://afonsoveloso.com/)
 
-- 📫 Reach me at **afonsovelosof@gmail.com**
+- 📫 Reach me at **me@afonsoveloso.com**
 
 ###
 <h3 align="left">Languages and Tools:</h3>
