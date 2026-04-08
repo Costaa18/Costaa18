@@ -1,8 +1,6 @@
 <h2 align="left">Hi 👋! I'm Costa <br /> I'm a Backend Developer, from Portugal</h2>
 
-- 🌱 I’m currently learning more about **Web Development**
-
-- 👨‍💻 Get to Know me better at my [Website](https://afonsoveloso.com/)
+- 👨‍💻 Get to Know me better at my [Website](https://portfoliov2-eta-smoky.vercel.app/)
 
 - 📫 Reach me at **me@afonsoveloso.com**
 
